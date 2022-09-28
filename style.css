@@ -1,0 +1,27 @@
+
+#menu-h{
+    padding:0 auto;
+    margin: 0%;
+   box-sizing: border-box; 
+   font-family: Arial, Helvetica, sans-serif;
+}
+#menu-h{
+    list-style: none;
+    padding: 1%;
+    background-color: black;
+}
+#menu-h li{
+    display: inline;
+}
+#menu-h li a{
+    color:white;
+    padding: 30px;
+    display: inline-block;
+    text-decoration: none;
+    display: inline;
+    
+
+}
+#menu-h li a:hover{
+    color: red;
+}
