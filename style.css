@@ -19,13 +19,23 @@
     display: inline-block;
     text-decoration: none;
     display: inline;
+}
+.descrição{
+    color: white;
+    text-align: center;
     
-
+    
 }
 #menu-h li a:hover{
     color: red;
 }
-
+.container {
+    display: contents;
+    text-decoration: none;
+    color: white;
+    margin: 100px;
+ font-style: normal;
+}
 
 
 
